@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.cloudToaster {
+  text-align: left;
+}
+.cloudToaster h2 {
+  font-size: 14px;
+  margin-top: 0;
+}
+.cloudToaster p {
+  font-size: 12px;
+}
